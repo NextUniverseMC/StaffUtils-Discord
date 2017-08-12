@@ -19,6 +19,7 @@ public class NextReport {
 
     public static void main(String[] args) {
 
+        // TODO: remove token
         api = Javacord.getApi("MzQwNjU5OTE3MzA2MzMxMTM2.DF1v3A.7puBe4luQfCIaO81kvlwJYAACqc", true);
         api.connectBlocking();
 
